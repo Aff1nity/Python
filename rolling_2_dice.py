@@ -188,5 +188,5 @@ px.bar(x=count_results, y=frequencies, title=title, labels=labels)
 # Average = 10-11 damage per round + 3 = 15dps
 
 # Conclusion: The average full damage that the party can deal is: 104
-# In the likely event that every PC lands every hit, any boss that I create should have at least
+# In the unlikely event that every PC lands every hit, any boss that I create should have at least
 # more than 100HP if I want it to live for more than one round.
