@@ -69,7 +69,7 @@ y = df['gross']
 
 fig = plt.figure(figsize = (15, 5))
 
-plt.bar(x, y, color = 'green', width= 0.5)
+plt.barh(x, y, color = 'green')
 plt.title('Gross by Genre')
 plt.xlabel('Genres', fontsize=5)
 plt.ylabel('Gross Revenue', fontsize=15)
