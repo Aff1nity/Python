@@ -10,7 +10,7 @@ import requests
 r = requests.get("https://en.wikipedia.org/wiki/Toy_Story_3")
 
 soup = bs(r.content, features="lxml")
-#print(soup.prettify()) Checking that it is working
+print(soup.prettify()) Checking that it is working
 
 #Look for the specific information that we want from the webpage
 #Grab the table with all the necessary information and scrape from there
@@ -18,7 +18,7 @@ soup = bs(r.content, features="lxml")
 info_box = soup.find(class_ = "infobox vevent")
 
 #All our information is under "tr" section
-# th = key and tr = value for our dictionary
+th = key and tr = value for our dictionary
 info_rows = info_box.find_all("tr")
 for row in info_rows:
     print(row.prettify())
@@ -148,7 +148,7 @@ print(movie_info_list[0])
 ### Task 3: Cleaning data
 # Convert runing time into interger
 # Convert date into datetime objects
-# Convert budget into numerical values and strip the text: [1]
+# strip the text: [1]
 # Split up the long strips that were not listed
 
 # Split long strips
@@ -156,9 +156,9 @@ print(movie_info_list[0])
 #After inspecting, "br" could be used to handle this and separate the items into a list
 #Using the documentation on get_text(), a new elif  was added to or main function: stripped_strings
 
-#movie_info_list = load_data("movie_data_set_clean.json")
+movie_info_list = load_data("movie_data_set_clean.json")
 
-#print([movie.get('Running time', 'N/A')for movie in movie_info_list])
+print([movie.get('Running time', 'N/A')for movie in movie_info_list])
 
 # Create a function that only captures the time and converts it into an interger
 # Also, the function needs to deal with lists
@@ -181,7 +181,7 @@ def minutes_to_interger(running_time):
 
 for movie in movie_info_list:
     movie[ 'Running time'] = minutes_to_interger(movie.get('Running time', 'N/A'))
-#print(movie_info_list[10])
+print(movie_info_list[10])
 
 ### Date conversion
 # Analyzing the data pattern and format
