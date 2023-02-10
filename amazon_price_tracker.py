@@ -22,7 +22,7 @@ def check_price():
     price = soup.find('span', {'class': 'a-price-whole'}).get_text()
     converted_price = float(price[:3])
 
-    if(converted_price > 400):
+    if(converted_price < 400):
         send_email()
 
 # Setting up a conection in order to send an email
