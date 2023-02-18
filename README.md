@@ -9,6 +9,8 @@ As I continue to learn and explore Python, I'm excited about the possibilities t
 
 Overall, my experience with Python has been positive, and I'm eager to continue developing my coding skills as I work towards my goal of entering the field of data analysis. Whether I'm using Python for statistical analysis in my free time or pursuing a career in data analysis, I'm confident that this programming language will continue to be a valuable and versatile tool in my toolkit.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Projects Overview
 
 Project Summary: [Amazon Price Tracker](https://github.com/Aff1nity/Python/blob/main/amazon_price_tracker.py)
