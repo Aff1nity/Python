@@ -43,7 +43,7 @@ I was then able to streamline the data cleaning and analysis process, and draw a
 
 Project Summary: [Movie Set Creation](https://github.com/Aff1nity/Python/tree/main/Data%20Set%20Creation%20and%20Cleaning)
 
-The code in the GitHub repository demonstrates my skills in data set creation and cleaning using Python. Specifically, the code performs the following functions:
+The code was very valuable for my learning process in data set creation and cleaning using Python. Specifically, the code performs the following functions:
 
     Scrapes movie data from a web page using Beautiful Soup, an HTML parser.
     Cleans and pre-processes the scraped data using Pandas dataframes, by removing duplicates, handling missing values, and converting data types.
