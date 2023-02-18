@@ -11,7 +11,7 @@ Overall, my experience with Python has been positive, and I'm eager to continue 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Projects Overview
+**Projects Overview**
 
 Project Summary: [Amazon Price Tracker](https://github.com/Aff1nity/Python/blob/main/amazon_price_tracker.py)
 
