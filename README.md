@@ -31,10 +31,27 @@ Based on the results of the correlation analysis, it was found that there was a 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Project Summary: [Sales Analysis](https://github.com/Aff1nity/Python/blob/main/sales_analysis.ipynb)
 
+In this project, I performed a sales analysis using Python to extract valuable insights from a sales dataset. Using my expertise in data cleaning and analysis, I extracted relevant features such as month, product, city, and hour, and calculated metrics such as total sales and quantity sold.
 
+I then visualized the results using various data visualization techniques, such as bar charts and line plots. From this analysis, I was able to identify the best month for sales, the product with the highest number of sales, the city with the highest number of sales, and the best time to display ads to maximize the likelihood of customer's buying products.
 
+I was then able to streamline the data cleaning and analysis process, and draw actionable insights from the sales data. The results of this analysis can be useful for businesses to improve their sales strategy and make informed decisions.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project Summary: [Movie Set Creation](https://github.com/Aff1nity/Python/tree/main/Data%20Set%20Creation%20and%20Cleaning)
+
+The code in the GitHub repository demonstrates my skills in data set creation and cleaning using Python. Specifically, the code performs the following functions:
+
+    Scrapes movie data from a web page using Beautiful Soup, an HTML parser.
+    Cleans and pre-processes the scraped data using Pandas dataframes, by removing duplicates, handling missing values, and converting data types.
+    Combines the pre-processed data into a final dataset using Pandas, and exports the dataset to a JSON file.
+
+The movie dataset creation code is well-documented, and includes comments explaining each step of the data creation and cleaning process. The skills used in this code, including web scraping, data cleaning, and Pandas data manipulation, are essential and valuable for my learning process.
+
+Overall, this code is an attempt at the creation and cleaning of a data set using Python, and I was able to learn how to extract and transform raw data into a usable dataset for further analysis.
 
 
 
