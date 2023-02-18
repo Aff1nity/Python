@@ -11,7 +11,7 @@ Overall, my experience with Python has been positive, and I'm eager to continue 
 
 Projects Overview
 
-Project Summary: Amazon Price Tracker [https://github.com/Aff1nity/Python/blob/main/amazon_price_tracker.py]
+Project Summary: [Amazon Price Tracker](https://github.com/Aff1nity/Python/blob/main/amazon_price_tracker.py)
 The Amazon Price Tracker is a Python project that allows users to track the price of a specific product on Amazon and receive an email notification when the product falls below a determined price. This project is designed to help users save money by alerting them when a product they're interested in goes on sale.
 
 The program uses web scraping techniques to extract the price of the product from the Amazon website and compares it to the user's desired price point. If the product falls below the desired price, the program sends an email to the user notifying them of the sale.
