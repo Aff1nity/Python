@@ -21,3 +21,20 @@ The program uses web scraping techniques to extract the price of the product fro
 
 This project is a great way for Python beginners to learn about web scraping and email automation. It can also be modified to suit a variety of needs, such as tracking the price of multiple products or setting up recurring price checks.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project Summary: [Movies Data Analysis](https://github.com/Aff1nity/Python/blob/main/correlation_movies.py)
+
+In this project, a correlation analysis was performed using a movie data set to determine the relationship between a movie's budget and its gross revenue. The aim of the project was to investigate whether there was a correlation between the two variables and, if so, the strength of that correlation.
+
+Based on the results of the correlation analysis, it was found that there was a positive correlation between a movie's budget and its gross revenue. This indicates that there is a relationship between the amount of money spent on a movie's production and the amount of revenue generated from that movie. The strength of the correlation, however, varied depending on the sample of movies and other factors that may affect the movie's success, such as marketing, critical reception, and audience interest.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
