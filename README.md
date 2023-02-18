@@ -53,5 +53,11 @@ The movie dataset creation code is well-documented, and includes comments explai
 
 Overall, this code is an attempt at the creation and cleaning of a data set using Python, and I was able to learn how to extract and transform raw data into a usable dataset for further analysis.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[First Steps](https://github.com/Aff1nity/Python/tree/main/First%20Steps)
+
+The repository showcases my initial attempts at learning and working with Python. It contains a series of Python scripts and sample projects that demonstrate my progress in fundamental programming concepts, such as variables, data types, functions, loops, and conditionals.
+
+Overall, the First Steps repository serves as evidence of my commitment to learning and developing my skills in Python. It demonstrates my growth as a programmer and my willingness to take on new challenges in pursuit of building my knowledge in Python.
 
