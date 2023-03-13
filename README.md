@@ -55,6 +55,14 @@ Overall, this code is an attempt at the creation and cleaning of a data set usin
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Project Summary: [Spotify Data Exploration](https://github.com/Aff1nity/Python/blob/main/Spotify%20Data%20Exploration.ipynb)
+
+The project begins with an overview of the Spotify API and its capabilities. Then, we proceed to use Python libraries such as pandas, numpy, and seaborn to import and manipulate Spotify data in a Jupyter notebook.
+
+The notebook provides code and visualizations to explore various aspects of Spotify data, such as the popularity of artists, the distribution of song duration, and the relationship between danceability and energy in songs.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [First Steps](https://github.com/Aff1nity/Python/tree/main/First%20Steps)
 
 The repository showcases my initial attempts at learning and working with Python. It contains a series of Python scripts and sample projects that demonstrate my progress in fundamental programming concepts, such as variables, data types, functions, loops, and conditionals.
